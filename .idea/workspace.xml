@@ -1,25 +1,127 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="AnalysisUIOptions">
+    <option name="SPLITTER_PROPORTION" value="0.19556285" />
+  </component>
   <component name="ChangeListManager">
     <list default="true" id="faf5a2dc-ef3d-4f4c-8e72-29dbf2242196" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/AD_Teach.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/AD_Teach/TestConvert.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/AD_Teach/TestVar.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/AD_Teach/cn/cssf/chapter2/TestConvert2.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/AD_Teach/cn/cssf/chapter2/TestVar2.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/cn/cssf/chapter2/TestConvert.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/cn/cssf/chapter2/TestConvert2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/cn/cssf/chapter2/TestIF.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/cn/cssf/chapter2/TestMethod.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/cn/cssf/chapter2/TestSwitch.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/cn/cssf/chapter2/TestVar.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/cn/cssf/chapter2/TestVar2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/cn/cssf/chapter2/TestWhile.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/cn/cssf/chapter10/TCPClient.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/cn/cssf/chapter10/TCPServer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/cn/cssf/chapter10/TestClient.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/cn/cssf/chapter10/TestServer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/cn/cssf/chapter10/TestSockClient.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/cn/cssf/chapter10/TestSockServer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/cn/cssf/chapter10/TestUDPClient.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/cn/cssf/chapter10/TestUDPClient2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/cn/cssf/chapter10/TestUDPServer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/cn/cssf/chapter10/TestUDPServer2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/cn/cssf/chapter10/talkclient.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/cn/cssf/chapter10/talkserver.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/cn/cssf/chapter11/AWTDrawing.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/cn/cssf/chapter11/AWTDrawing2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/cn/cssf/chapter11/CenterPanel.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/cn/cssf/chapter11/MyMouseAdapter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/cn/cssf/chapter11/MyMouseAdapterGeneric.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/cn/cssf/chapter11/NestedContainer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/cn/cssf/chapter11/TFActionEvent.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/cn/cssf/chapter11/TFMath.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/cn/cssf/chapter11/TFMathTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/cn/cssf/chapter11/TFMathTest2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/cn/cssf/chapter11/TFPassword.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/cn/cssf/chapter11/TenButtons.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/cn/cssf/chapter11/Test.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/cn/cssf/chapter11/TestActionEvent.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/cn/cssf/chapter11/TestActionEvent2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/cn/cssf/chapter11/TestAnonymous.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/cn/cssf/chapter11/TestAnonymous2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/cn/cssf/chapter11/TestBorderLayout.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/cn/cssf/chapter11/TestFlowLayout.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/cn/cssf/chapter11/TestFlowLayout2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/cn/cssf/chapter11/TestFrame.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/cn/cssf/chapter11/TestFrameWithPanel.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/cn/cssf/chapter11/TestGridLayout.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/cn/cssf/chapter11/TestInner.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/cn/cssf/chapter11/TestKey.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/cn/cssf/chapter11/TestMouseMotion.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/cn/cssf/chapter11/TestMouseMotionGeneric.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/cn/cssf/chapter11/TestMultiFrame.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/cn/cssf/chapter11/TestMultiPanel.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/cn/cssf/chapter11/TestPaint.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/cn/cssf/chapter11/TestPanel.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/cn/cssf/chapter11/TestWindowClose.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/cn/cssf/chapter2/Fab.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/cn/cssf/chapter2/TestBreak.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/cn/cssf/chapter3/Cat.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/cn/cssf/chapter3/TestAccess.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/cn/cssf/chapter3/TestCircle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/cn/cssf/chapter3/TestEquals.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/cn/cssf/chapter3/TestFinal.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/cn/cssf/chapter3/TestInherit.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/cn/cssf/chapter3/TestInterface.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/cn/cssf/chapter3/TestMethod.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/cn/cssf/chapter3/TestOverLoad.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/cn/cssf/chapter3/TestOverWrite.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/cn/cssf/chapter3/TestOverload2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/cn/cssf/chapter3/TestPerson.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/cn/cssf/chapter3/TestPoint.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/cn/cssf/chapter3/TestPolymoph.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/cn/cssf/chapter3/TestProtected.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/cn/cssf/chapter3/TestStatic.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/cn/cssf/chapter3/TestSuperSub.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/cn/cssf/chapter3/TestTeacher.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/cn/cssf/chapter3/TestToString.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/cn/cssf/chapter3/Valuable.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/cn/cssf/chapter5/Count3Quit.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/cn/cssf/chapter5/Count3Quit2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/cn/cssf/chapter5/NumSort.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/cn/cssf/chapter5/TestArgs.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/cn/cssf/chapter5/TestArray.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/cn/cssf/chapter5/TestArrayCopy.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/cn/cssf/chapter5/TestDateSort.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/cn/cssf/chapter5/TestSearch.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/cn/cssf/chapter5/TestSort.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/cn/cssf/chapter6/ListFile.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/cn/cssf/chapter8/FileCopy.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/cn/cssf/chapter8/HW.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/cn/cssf/chapter8/TTT.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/cn/cssf/chapter8/TestBufferStream1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/cn/cssf/chapter8/TestBufferStream2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/cn/cssf/chapter8/TestDataStream.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/cn/cssf/chapter8/TestFileInputStream.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/cn/cssf/chapter8/TestFileOutputStream.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/cn/cssf/chapter8/TestFileReader.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/cn/cssf/chapter8/TestFileWriter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/cn/cssf/chapter8/TestFileWriter2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/cn/cssf/chapter8/TestObjectIO.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/cn/cssf/chapter8/TestPrintStream1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/cn/cssf/chapter8/TestPrintStream2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/cn/cssf/chapter8/TestPrintStream3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/cn/cssf/chapter8/TestTransForm1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/cn/cssf/chapter8/TestTransForm2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/cn/cssf/chapter8/testobjectio.dat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/cn/cssf/chapter9/111.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/cn/cssf/chapter9/ProducerConsumer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/cn/cssf/chapter9/RecursiveFile.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/cn/cssf/chapter9/SyncTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/cn/cssf/chapter9/T.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/cn/cssf/chapter9/TT.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/cn/cssf/chapter9/Test.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/cn/cssf/chapter9/TestDeadLock.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/cn/cssf/chapter9/TestInterrupt.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/cn/cssf/chapter9/TestJoin.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/cn/cssf/chapter9/TestPriority.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/cn/cssf/chapter9/TestSync.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/cn/cssf/chapter9/TestThread1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/cn/cssf/chapter9/TestThread2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/cn/cssf/chapter9/TestThread3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/cn/cssf/chapter9/TestThread4.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/cn/cssf/chapter9/TestThread5.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/cn/cssf/chapter9/TestThread6.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/cn/cssf/chapter9/TestYield.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/AD_Teach/TestConvert.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/AD_Teach/TestVar.class" beforeDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -35,78 +137,92 @@
   <component name="FileEditorManager">
     <leaf>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/cn/cssf/chapter2/TestConvert.java">
+        <entry file="file://$PROJECT_DIR$/src/cn/cssf/chapter11/TestMultiFrame.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="308">
-              <caret line="14" column="33" selection-start-line="14" selection-start-column="33" selection-end-line="14" selection-end-column="33" />
+            <state relative-caret-position="88">
+              <caret line="4" column="13" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/cn/cssf/chapter2/TestVar.java">
+        <entry file="file://$PROJECT_DIR$/src/cn/cssf/chapter11/TestPaint.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="44">
-              <caret line="2" column="15" selection-start-line="2" selection-start-column="15" selection-end-line="2" selection-end-column="16" />
+            <state relative-caret-position="67">
+              <caret line="4" column="19" lean-forward="true" selection-start-line="4" selection-start-column="19" selection-end-line="4" selection-end-column="19" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/cn/cssf/chapter2/TestIF.java">
+        <entry file="file://$PROJECT_DIR$/src/cn/cssf/chapter11/TestPanel.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state>
-              <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+            <state relative-caret-position="88">
+              <caret line="4" column="20" selection-start-line="4" selection-start-column="20" selection-end-line="4" selection-end-column="20" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/cn/cssf/chapter2/TestSwitch.java">
+        <entry file="file://$PROJECT_DIR$/src/cn/cssf/chapter11/TestWindowClose.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="34">
-              <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/cn/cssf/chapter2/TestWhile.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="44">
-              <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+            <state relative-caret-position="22">
+              <caret line="4" column="21" lean-forward="true" selection-start-line="4" selection-start-column="21" selection-end-line="4" selection-end-column="21" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/cn/cssf/chapter2/TestMethod.java">
+        <entry file="file://$PROJECT_DIR$/src/cn/cssf/chapter11/TFActionEvent.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="44">
-              <caret line="2" column="21" selection-start-line="2" selection-start-column="21" selection-end-line="2" selection-end-column="21" />
+            <state relative-caret-position="-154">
+              <caret line="5" column="22" selection-start-line="5" selection-start-column="22" selection-end-line="5" selection-end-column="22" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/cn/cssf/chapter2/TestConvert2.java">
+        <entry file="file://$PROJECT_DIR$/src/cn/cssf/chapter11/TFMathTest.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="44">
-              <caret line="2" column="18" selection-start-line="2" selection-start-column="18" selection-end-line="2" selection-end-column="18" />
+            <state relative-caret-position="-616">
+              <caret line="5" column="18" lean-forward="true" selection-start-line="5" selection-start-column="18" selection-end-line="5" selection-end-column="18" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/cn/cssf/chapter2/TestVar2.java">
+        <entry file="file://$PROJECT_DIR$/src/cn/cssf/chapter11/TFMathTest2.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="418">
-              <caret line="19" column="1" selection-start-line="19" selection-start-column="1" selection-end-line="19" selection-end-column="1" />
+            <state relative-caret-position="-286">
+              <caret line="33" column="18" lean-forward="true" selection-start-line="33" selection-start-column="18" selection-end-line="33" selection-end-column="18" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/cn/cssf/chapter11/TFPassword.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="125">
+              <caret line="21" column="19" selection-start-line="21" selection-start-column="19" selection-end-line="21" selection-end-column="19" />
             </state>
           </provider>
         </entry>
       </file>
     </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>Point</find>
+      <find>Consu</find>
+      <find>Monitor</find>
+    </findStrings>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -114,29 +230,65 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/cn/cssf/chapter2/TestVar2.java" />
-        <option value="$PROJECT_DIR$/src/cn/cssf/chapter2/TestConvert2.java" />
-        <option value="$PROJECT_DIR$/src/cn/cssf/chapter2/TestVar.java" />
-        <option value="$PROJECT_DIR$/src/cn/cssf/chapter2/TestConvert.java" />
-        <option value="$PROJECT_DIR$/src/cn/cssf/chapter2/TestIF.java" />
-        <option value="$PROJECT_DIR$/src/cn/cssf/chapter2/TestSwitch.java" />
-        <option value="$PROJECT_DIR$/src/cn/cssf/chapter2/TestWhile.java" />
-        <option value="$PROJECT_DIR$/src/cn/cssf/chapter2/TestMethod.java" />
+        <option value="$PROJECT_DIR$/src/cn/cssf/chapter9/TestYield.java" />
+        <option value="$PROJECT_DIR$/src/cn/cssf/chapter10/Chat/Chat1.0/ChatServer.java" />
+        <option value="$PROJECT_DIR$/src/cn/cssf/chapter10/Chat/Chat10/ChatServer.java" />
+        <option value="$PROJECT_DIR$/src/cn/cssf/chapter10/Chat/Chat07/ChatClient.java" />
+        <option value="$PROJECT_DIR$/src/cn/cssf/chapter10/talkclient.java" />
+        <option value="$PROJECT_DIR$/src/cn/cssf/chapter10/talkserver.java" />
+        <option value="$PROJECT_DIR$/src/cn/cssf/chapter10/TCPClient.java" />
+        <option value="$PROJECT_DIR$/src/cn/cssf/chapter10/TCPServer.java" />
+        <option value="$PROJECT_DIR$/src/cn/cssf/chapter10/TestClient.java" />
+        <option value="$PROJECT_DIR$/src/cn/cssf/chapter10/TestServer.java" />
+        <option value="$PROJECT_DIR$/src/cn/cssf/chapter10/TestSockClient.java" />
+        <option value="$PROJECT_DIR$/src/cn/cssf/chapter10/TestSockServer.java" />
+        <option value="$PROJECT_DIR$/src/cn/cssf/chapter10/TestUDPClient.java" />
+        <option value="$PROJECT_DIR$/src/cn/cssf/chapter10/TestUDPServer.java" />
+        <option value="$PROJECT_DIR$/src/cn/cssf/chapter10/复件 TestUDPClient.java" />
+        <option value="$PROJECT_DIR$/src/cn/cssf/chapter10/复件 TestUDPServer.java" />
+        <option value="$PROJECT_DIR$/src/cn/cssf/chapter10/TestUDPClient2.java" />
+        <option value="$PROJECT_DIR$/src/cn/cssf/chapter10/TestUDPServer2.java" />
+        <option value="$PROJECT_DIR$/src/cn/cssf/chapter11/AWTDrawing.java" />
+        <option value="$PROJECT_DIR$/src/cn/cssf/chapter11/AWTDrawing2.java" />
+        <option value="$PROJECT_DIR$/src/cn/cssf/chapter11/CenterPanel.java" />
+        <option value="$PROJECT_DIR$/src/cn/cssf/chapter11/MyMouseAdapter.java" />
+        <option value="$PROJECT_DIR$/src/cn/cssf/chapter11/MyMouseAdapterGeneric.java" />
+        <option value="$PROJECT_DIR$/src/cn/cssf/chapter11/NestedContainer.java" />
+        <option value="$PROJECT_DIR$/src/cn/cssf/chapter11/TenButtons.java" />
+        <option value="$PROJECT_DIR$/src/cn/cssf/chapter11/Test.java" />
+        <option value="$PROJECT_DIR$/src/cn/cssf/chapter11/TestActionEvent.java" />
+        <option value="$PROJECT_DIR$/src/cn/cssf/chapter11/TestActionEvent2.java" />
+        <option value="$PROJECT_DIR$/src/cn/cssf/chapter11/TestAnonymous.java" />
+        <option value="$PROJECT_DIR$/src/cn/cssf/chapter11/TestAnonymous2.java" />
+        <option value="$PROJECT_DIR$/src/cn/cssf/chapter11/TestBorderLayout.java" />
+        <option value="$PROJECT_DIR$/src/cn/cssf/chapter11/TestFlowLayout.java" />
+        <option value="$PROJECT_DIR$/src/cn/cssf/chapter11/TestFlowLayout2.java" />
+        <option value="$PROJECT_DIR$/src/cn/cssf/chapter11/TestFrame.java" />
+        <option value="$PROJECT_DIR$/src/cn/cssf/chapter11/TestFrameWithPanel.java" />
+        <option value="$PROJECT_DIR$/src/cn/cssf/chapter11/TestGridLayout.java" />
+        <option value="$PROJECT_DIR$/src/cn/cssf/chapter11/TestInner.java" />
+        <option value="$PROJECT_DIR$/src/cn/cssf/chapter11/TestKey.java" />
+        <option value="$PROJECT_DIR$/src/cn/cssf/chapter11/TestMouseMotion.java" />
+        <option value="$PROJECT_DIR$/src/cn/cssf/chapter11/TestMouseMotionGeneric.java" />
+        <option value="$PROJECT_DIR$/src/cn/cssf/chapter11/TestMultiFrame.java" />
+        <option value="$PROJECT_DIR$/src/cn/cssf/chapter11/TestMultiPanel.java" />
+        <option value="$PROJECT_DIR$/src/cn/cssf/chapter11/TestPaint.java" />
+        <option value="$PROJECT_DIR$/src/cn/cssf/chapter11/TestPanel.java" />
+        <option value="$PROJECT_DIR$/src/cn/cssf/chapter11/TestWindowClose.java" />
+        <option value="$PROJECT_DIR$/src/cn/cssf/chapter11/TFActionEvent.java" />
+        <option value="$PROJECT_DIR$/src/cn/cssf/chapter11/TFMathTest.java" />
+        <option value="$PROJECT_DIR$/src/cn/cssf/chapter11/TFMathTest2.java" />
+        <option value="$PROJECT_DIR$/src/cn/cssf/chapter11/TFPassword.java" />
+        <option value="$PROJECT_DIR$/src/cn/cssf/chapter11/TFMath.java" />
+        <option value="$PROJECT_DIR$/src/cn/cssf/chapter11/Test2.java" />
       </list>
     </option>
   </component>
-  <component name="ProjectConfigurationFiles">
-    <option name="files">
-      <list>
-        <option value="$PROJECT_DIR$/.idea/vcs.xml" />
-      </list>
-    </option>
-  </component>
-  <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="675" />
-    <option name="y" value="5" />
-    <option name="width" value="1175" />
-    <option name="height" value="1030" />
+  <component name="ProjectFrameBounds">
+    <option name="x" value="55" />
+    <option name="y" value="-10" />
+    <option name="width" value="1664" />
+    <option name="height" value="1019" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
@@ -162,7 +314,14 @@
               <item name="AD_Teach" type="b2602c69:ProjectViewProjectNode" />
               <item name="AD_Teach" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="chapter2" type="462c0819:PsiDirectoryNode" />
+              <item name="cssf" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="AD_Teach" type="b2602c69:ProjectViewProjectNode" />
+              <item name="AD_Teach" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="cssf" type="462c0819:PsiDirectoryNode" />
+              <item name="chapter3" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -183,8 +342,15 @@
     <property name="settings.editor.selected.configurable" value="File.Encoding" />
   </component>
   <component name="RecentsManager">
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="cn.cssf.chapter3" />
+    </key>
     <key name="MoveFile.RECENT_KEYS">
-      <recent name="E:\Works\Teach\AD_Teach\src\cn\cssf\chapter2" />
+      <recent name="E:\Works\Teach\AD_Teach\src\cn\cssf\chapter11" />
+      <recent name="E:\Works\Teach\AD_Teach\src\cn\cssf\chapter10" />
+      <recent name="E:\Works\Teach\AD_Teach\src\cn\cssf\chapter9" />
+      <recent name="E:\Works\Teach\AD_Teach\src\cn\cssf\chapter8" />
+      <recent name="E:\Works\Teach\AD_Teach\src\cn\cssf\chapter3" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -199,7 +365,14 @@
       </list>
     </option>
   </component>
-  <component name="RunManager">
+  <component name="RunManager" selected="Application.TestThread6">
+    <configuration name="TestThread6" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="TestThread6" />
+      <module name="AD_Teach" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="TestVar" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="TestVar" />
       <module name="AD_Teach" />
@@ -256,6 +429,7 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.TestThread6" />
         <item itemvalue="Application.TestVar" />
       </list>
     </recent_temporary>
@@ -270,42 +444,51 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1587430712376</updated>
-      <workItem from="1587430713650" duration="1258000" />
+      <workItem from="1587430713650" duration="8499000" />
     </task>
+    <task id="LOCAL-00001" summary="latest">
+      <created>1587431996742</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1587431996742</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="1258000" />
+    <option name="totallyTimeSpent" value="8499000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
+    <frame x="44" y="-8" width="1331" height="815" extended-state="0" />
     <layout>
-      <window_info id="Image Layers" />
       <window_info id="Designer" />
-      <window_info id="UI Designer" />
+      <window_info id="Image Layers" />
       <window_info id="Capture Tool" />
+      <window_info id="UI Designer" />
       <window_info id="Favorites" side_tool="true" />
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.25" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.2254517" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
-      <window_info anchor="bottom" id="Messages" />
+      <window_info anchor="bottom" id="Terminal" />
       <window_info anchor="bottom" id="Docker" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Inspection Results" weight="0.25354108" />
+      <window_info anchor="bottom" id="Event Log" side_tool="true" />
       <window_info anchor="bottom" id="Database Changes" />
       <window_info anchor="bottom" id="Version Control" />
-      <window_info anchor="bottom" id="Terminal" />
-      <window_info anchor="bottom" id="Event Log" side_tool="true" />
+      <window_info anchor="bottom" id="Messages" />
       <window_info anchor="bottom" id="Message" order="0" />
-      <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.21673526" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.33286119" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.22096318" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
-      <window_info anchor="right" id="Palette" />
-      <window_info anchor="right" id="Theme Preview" />
       <window_info anchor="right" id="Maven" />
+      <window_info anchor="right" id="Palette" />
       <window_info anchor="right" id="Capture Analysis" />
-      <window_info anchor="right" id="Palette&#9;" />
       <window_info anchor="right" id="Database" />
+      <window_info anchor="right" id="Palette&#9;" />
+      <window_info anchor="right" id="Theme Preview" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
@@ -314,60 +497,389 @@
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
   </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="latest" />
+    <option name="LAST_COMMIT_MESSAGE" value="latest" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/cn/cssf/chapter10/TestClient.java</url>
+          <properties />
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/cn/cssf/chapter2/TestVar2.java">
+    <entry file="file://$PROJECT_DIR$/src/cn/cssf/chapter10/Chat/Chat10/ChatClient.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="418">
-          <caret line="19" column="1" selection-start-line="19" selection-start-column="1" selection-end-line="19" selection-end-column="1" />
+        <state relative-caret-position="220">
+          <caret line="13" column="4" selection-start-line="13" selection-start-column="4" selection-end-line="13" selection-end-column="4" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/cn/cssf/chapter2/TestConvert2.java">
+    <entry file="file://$PROJECT_DIR$/src/cn/cssf/chapter10/Chat/Chat07/ChatClient.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="316">
+          <caret line="82" column="49" selection-start-line="82" selection-start-column="49" selection-end-line="82" selection-end-column="49" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/cn/cssf/chapter10/Chat/Chat05/ChatClient.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="88">
+          <caret line="5" column="13" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/cn/cssf/chapter10/Chat/Chat05/ChatServer.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="88">
+          <caret line="6" column="13" selection-start-line="6" selection-start-column="13" selection-end-line="6" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/cn/cssf/chapter10/Chat/Chat03/ChatClient.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-308">
+          <caret line="10" column="4" selection-start-line="10" selection-start-column="4" selection-end-line="10" selection-end-column="4" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/cn/cssf/chapter10/Chat/Chat03/ChatServer.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-924">
+          <caret line="6" column="13" selection-start-line="6" selection-start-column="13" selection-end-line="6" selection-end-column="13" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/cn/cssf/chapter10/talkclient.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="66">
+          <caret line="4" column="13" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/cn/cssf/chapter10/talkserver.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="44">
-          <caret line="2" column="18" selection-start-line="2" selection-start-column="18" selection-end-line="2" selection-end-column="18" />
+          <caret line="5" column="16" selection-start-line="5" selection-start-column="16" selection-end-line="5" selection-end-column="16" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/cn/cssf/chapter2/TestConvert.java">
+    <entry file="file://$PROJECT_DIR$/src/cn/cssf/chapter10/TCPClient.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="88">
+          <caret line="5" column="17" selection-start-line="5" selection-start-column="17" selection-end-line="5" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/cn/cssf/chapter10/TCPServer.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="88">
+          <caret line="5" column="16" selection-start-line="5" selection-start-column="16" selection-end-line="5" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/cn/cssf/chapter10/TestClient.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="220">
+          <caret line="11" column="17" selection-start-line="11" selection-start-column="17" selection-end-line="11" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/cn/cssf/chapter10/TestServer.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="22">
+          <caret line="1" selection-start-line="1" selection-end-line="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/cn/cssf/chapter10/TestSockClient.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="88">
+          <caret line="4" column="18" selection-start-line="4" selection-start-column="18" selection-end-line="4" selection-end-column="18" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/cn/cssf/chapter10/TestSockServer.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="22">
+          <caret line="4" column="20" selection-start-line="4" selection-start-column="20" selection-end-line="4" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/cn/cssf/chapter10/TestUDPServer.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="88">
+          <caret line="5" column="27" selection-start-line="5" selection-start-column="27" selection-end-line="5" selection-end-column="27" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/cn/cssf/chapter10/TestUDPClient.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="88">
+          <caret line="5" column="16" selection-start-line="5" selection-start-column="16" selection-end-line="5" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/cn/cssf/chapter10/TestUDPClient2.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="88">
+          <caret line="4" column="27" selection-start-line="4" selection-start-column="27" selection-end-line="4" selection-end-column="27" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/cn/cssf/chapter10/TestUDPServer2.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="88">
+          <caret line="4" column="18" selection-start-line="4" selection-start-column="18" selection-end-line="4" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/cn/cssf/chapter11/AWTDrawing.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="88">
+          <caret line="4" column="16" selection-start-line="4" selection-start-column="16" selection-end-line="4" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/cn/cssf/chapter11/AWTDrawing2.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="83">
+          <caret line="9" column="12" selection-start-line="9" selection-start-column="12" selection-end-line="9" selection-end-column="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/cn/cssf/chapter11/CenterPanel.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="176">
+          <caret line="10" column="6" selection-start-line="10" selection-start-column="6" selection-end-line="10" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/cn/cssf/chapter11/MyMouseAdapterGeneric.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="682">
+          <caret line="37" column="13" selection-start-line="37" selection-start-column="6" selection-end-line="37" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/cn/cssf/chapter11/MyMouseAdapter.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-249">
+          <caret line="5" column="18" lean-forward="true" selection-start-line="5" selection-start-column="18" selection-end-line="5" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/cn/cssf/chapter11/NestedContainer.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="22">
+          <caret line="1" selection-start-line="1" selection-end-line="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/cn/cssf/chapter11/TenButtons.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="22">
+          <caret line="3" column="19" lean-forward="true" selection-start-line="3" selection-start-column="19" selection-end-line="3" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/cn/cssf/chapter11/Test.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="66">
+          <caret line="3" column="13" selection-start-line="3" selection-start-column="13" selection-end-line="3" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/cn/cssf/chapter11/TestActionEvent.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="308">
-          <caret line="14" column="33" selection-start-line="14" selection-start-column="33" selection-end-line="14" selection-end-column="33" />
+          <caret line="21" column="1" lean-forward="true" selection-start-line="21" selection-start-column="1" selection-end-line="21" selection-end-column="1" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/cn/cssf/chapter2/TestVar.java">
+    <entry file="file://$PROJECT_DIR$/src/cn/cssf/chapter11/TestActionEvent2.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="44">
-          <caret line="2" column="15" selection-start-line="2" selection-start-column="15" selection-end-line="2" selection-end-column="16" />
+        <state relative-caret-position="308">
+          <caret line="21" column="18" lean-forward="true" selection-start-line="21" selection-start-column="18" selection-end-line="21" selection-end-column="18" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/cn/cssf/chapter2/TestIF.java">
+    <entry file="file://$PROJECT_DIR$/src/cn/cssf/chapter11/TestAnonymous.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+        <state relative-caret-position="66">
+          <caret line="10" column="22" selection-start-line="10" selection-start-column="22" selection-end-line="10" selection-end-column="22" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/cn/cssf/chapter2/TestSwitch.java">
+    <entry file="file://$PROJECT_DIR$/src/cn/cssf/chapter11/TestAnonymous2.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="34">
-          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+        <state relative-caret-position="88">
+          <caret line="10" column="24" selection-start-line="10" selection-start-column="24" selection-end-line="10" selection-end-column="24" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/cn/cssf/chapter2/TestWhile.java">
+    <entry file="file://$PROJECT_DIR$/src/cn/cssf/chapter11/TestBorderLayout.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="44">
-          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+        <state relative-caret-position="22">
+          <caret line="1" selection-start-line="1" selection-end-line="1" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/cn/cssf/chapter2/TestMethod.java">
+    <entry file="file://$PROJECT_DIR$/src/cn/cssf/chapter11/TestFlowLayout.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="44">
-          <caret line="2" column="21" selection-start-line="2" selection-start-column="21" selection-end-line="2" selection-end-column="21" />
+        <state relative-caret-position="22">
+          <caret line="1" selection-start-line="1" selection-end-line="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/cn/cssf/chapter11/TestFlowLayout2.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="66">
+          <caret line="3" column="21" lean-forward="true" selection-start-line="3" selection-start-column="21" selection-end-line="3" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/cn/cssf/chapter11/TestFrame.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="66">
+          <caret line="6" column="13" selection-start-line="6" selection-start-column="13" selection-end-line="6" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/cn/cssf/chapter11/TestFrameWithPanel.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="22">
+          <caret line="1" selection-start-line="1" selection-end-line="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/cn/cssf/chapter11/TestGridLayout.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="22">
+          <caret line="1" selection-start-line="1" selection-end-line="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/cn/cssf/chapter11/TestInner.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="88">
+          <caret line="11" column="18" lean-forward="true" selection-start-line="11" selection-start-column="18" selection-end-line="11" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/cn/cssf/chapter11/TestKey.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="59">
+          <caret line="5" column="13" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/cn/cssf/chapter11/TestMouseMotion.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="220">
+          <caret line="20" column="44" selection-start-line="20" selection-start-column="44" selection-end-line="20" selection-end-column="44" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/cn/cssf/chapter11/TestMouseMotionGeneric.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="572">
+          <caret line="37" column="11" selection-start-line="37" selection-start-column="11" selection-end-line="37" selection-end-column="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/cn/cssf/chapter11/TestMultiPanel.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="220">
+          <caret line="14" column="17" lean-forward="true" selection-start-line="14" selection-start-column="17" selection-end-line="14" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/cn/cssf/chapter11/TestMultiFrame.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="88">
+          <caret line="4" column="13" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/cn/cssf/chapter11/TestPaint.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="67">
+          <caret line="4" column="19" lean-forward="true" selection-start-line="4" selection-start-column="19" selection-end-line="4" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/cn/cssf/chapter11/TestPanel.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="88">
+          <caret line="4" column="20" selection-start-line="4" selection-start-column="20" selection-end-line="4" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/cn/cssf/chapter11/TestWindowClose.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="22">
+          <caret line="4" column="21" lean-forward="true" selection-start-line="4" selection-start-column="21" selection-end-line="4" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/cn/cssf/chapter11/TFMathTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-616">
+          <caret line="5" column="18" lean-forward="true" selection-start-line="5" selection-start-column="18" selection-end-line="5" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/cn/cssf/chapter11/TFMathTest2.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-286">
+          <caret line="33" column="18" lean-forward="true" selection-start-line="33" selection-start-column="18" selection-end-line="33" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/cn/cssf/chapter11/TFPassword.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="125">
+          <caret line="21" column="19" selection-start-line="21" selection-start-column="19" selection-end-line="21" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/cn/cssf/chapter11/Test2.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="154">
+          <caret line="7" column="1" lean-forward="true" selection-start-line="7" selection-start-column="1" selection-end-line="7" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/cn/cssf/chapter11/TFMath.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="88">
+          <caret line="5" column="13" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
+          <folding>
+            <element signature="e#1102#1103#0" expanded="true" />
+            <element signature="e#1121#1122#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/cn/cssf/chapter11/TFActionEvent.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-154">
+          <caret line="5" column="22" selection-start-line="5" selection-start-column="22" selection-end-line="5" selection-end-column="22" />
         </state>
       </provider>
     </entry>
